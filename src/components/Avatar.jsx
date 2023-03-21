@@ -1,5 +1,6 @@
 import styles from './Avatar.module.css'
 
+//atualizado
 export function Avatar({hasBorder = true, src}) {
 
   return (
