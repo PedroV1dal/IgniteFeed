@@ -18,14 +18,7 @@ export function Post() {
             </header>
 
             <div className={styles.content}>
-                <p>Fala galeraa 👋</p>
-                <p>Blablablalbalbalbalbalablablablabl</p>
-                <p>👉 <a href="#">vidal.design/doctorcare</a></p>
-                <p>
-                    <a href='#'>#novoprojeto </a> 
-                    <a href='#'>#nlw </a>
-                    <a href='#'>#rocketseat</a>  
-                </p>
+                
             </div>
 
             <form className={styles.commentForm}>
